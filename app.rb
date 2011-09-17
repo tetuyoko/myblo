@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'sinatra'
-require 'tweet.rb'
+require File.expand_path(File.dirname(__FILE__)) + '/tweet.rb'
 
 get '/' do
   'under construction'
