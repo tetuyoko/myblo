@@ -40,10 +40,7 @@ Isn't anything
 EOF
 
     Twitter.configure do |config|
-      config.consumer_key       = 'g90tywgiYiuPMOlozqKGw'
-      config.consumer_secret    = 'd8VvWJSnkJuxNkVQdShoo0kERS4giytgNAclGDq65A'
-      config.oauth_token        = '375159515-6wmUlXoLmxB7j40Inhhsmxd6P3J6qL3nf084F6Tg'
-      config.oauth_token_secret = 'wuJ07DgrOGcnsUzb7Ybu4JxY39llOKmvaQRSbhK3Y'
+      
     end
   end
 
